@@ -1,3 +1,8 @@
 numpy==2.2.6
 pandas==2.3.0
 streamlit==1.45.1
+
+altair==5.5.0
+pandas==2.3.0
+pyarrow==20.0.0
+streamlit==1.46.0
